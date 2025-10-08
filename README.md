@@ -1,4 +1,5 @@
 AlpaCare Medical Instruction Assistant
+
 (A) Project Overview
 
 The AlpaCare Medical Instruction Assistant is a safe, non-diagnostic medical guidance system built using NLP and large language models.
